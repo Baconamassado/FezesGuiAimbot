@@ -2,4 +2,6 @@
 
 An universal aimbot using orion lib. No longer maintained and will not receive any further updates.
 
-Updated version: 
+Updated version: https://github.com/Baconamassado/hyperinfinityAimbot
+
+Obs: language in Portuguese BR
