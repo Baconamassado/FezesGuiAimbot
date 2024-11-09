@@ -14,7 +14,7 @@ The latest version of the project can be found on [GitHub](https://github.com/Ba
 
 - **No longer maintained**: This script has been discontinued and will not receive further updates or support.
 - **Future versions**: The most up-to-date version of the aimbot can be accessed through the provided GitHub link.
-
+- **Language**: Fully written in Portuguese BR
 ---
 
 ## **Disclaimer:**
