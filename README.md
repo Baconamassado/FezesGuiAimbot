@@ -2,11 +2,11 @@
 
 ## **Description:**
 
-A **universal aimbot** using the **Orion lib**. This project is **no longer maintained** and will **not receive any further updates**.
+A **universal aimbot** using the **Orion lib**. This project is **no longer maintained** and will **not receive any further updates**. (but it works well)
 
 ### **Updated Version:**
 
-The latest version of the project can be found on [GitHub](https://github.com/Baconamassado/hyperinfinityAimbot).
+The latest version of the project can be found on [GitHub](https://github.com/Baconamassado/hyperinfinityAimbot). (BETA version)
 
 ---
 
